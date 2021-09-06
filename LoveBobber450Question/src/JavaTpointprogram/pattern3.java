@@ -1,6 +1,7 @@
-public class example1 {
+package JavaTpointprogram;
+
+public class pattern3 {
     public static void main(String[] args) {
 
     }
-
 }
