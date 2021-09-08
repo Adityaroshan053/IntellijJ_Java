@@ -1,8 +1,12 @@
 package JavaTpointprogram;
 
+import java.util.Scanner;
+
 public class Armstrong {
     public static void main(String[] args) {
-     int a=153;
+        Scanner sc =new Scanner(System.in);
+        System.out.println("Enter the No ");
+        int a= sc.nextInt();
      int temp =a;
      int rem;
      int l=0;
@@ -14,12 +18,13 @@ public class Armstrong {
          temp=temp/10;
      }
         System.out.println("Length of thr Number is "+l);
+     temp=a;
      while (temp!=0){
          b1=temp%10;
          sum += Math.pow(b1,l);
          temp=temp/10;
      }
-        System.out.println(sum);
+
      if (a == sum){
          System.out.println(a+" is Armstrong Number");
      }
