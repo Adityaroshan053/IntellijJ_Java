@@ -17,7 +17,7 @@ public class Palindrom {
             temp=temp/10;
         }
         if (no==rev){
-            System.out.println("Given Number is Palindrom");
+            System.out.println("Given Number is Palindrom");//Check number after reverse
         }
         else {
             System.out.println("Given Number is not Palindrom");

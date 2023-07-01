@@ -29,7 +29,7 @@ public class Armstrong {
          System.out.println(a+" is Armstrong Number");
      }
      else {
-         System.out.println(a+" is Not Armstrong Number");
+         System.out.println(a+" is Not Armstrong Number");// 153 is armstrong bcz 1^3+5^3+3^3=153
      }
     }
 

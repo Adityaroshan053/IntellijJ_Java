@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LinkedListUsingJava/A_Stack/A_Stack.iml" filepath="$PROJECT_DIR$/LinkedListUsingJava/A_Stack/A_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApnaCollge_By_Shraddha/ApnaCollge_By_Shraddha.iml" filepath="$PROJECT_DIR$/ApnaCollge_By_Shraddha/ApnaCollge_By_Shraddha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSADeepDiveUsingJava.iml" filepath="$PROJECT_DIR$/DSADeepDiveUsingJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListUsingJava/LinkedListUsingJava.iml" filepath="$PROJECT_DIR$/LinkedListUsingJava/LinkedListUsingJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wings_Tcs/Wings_Tcs.iml" filepath="$PROJECT_DIR$/Wings_Tcs/Wings_Tcs.iml" />
+    </modules>
+  </component>
+</project>
